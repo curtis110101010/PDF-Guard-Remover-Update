@@ -1,5 +1,5 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.12",
   "publishedAt": "2026-07-23",
   "releaseNotes": [
     "去硬水印支持清理彩色浅水印。",
