@@ -2,6 +2,7 @@
   "version": "0.1.14",
   "publishedAt": "2026-07-26",
   "releaseNotes": [
-    "新增了windows x86 32位版本。"
+    "新增 Windows 32 位（x86）安装版和便携版。",
+    "同时提供 Windows x64、Mac Apple Silicon 和 Mac Intel 安装包。"
   ]
 }
