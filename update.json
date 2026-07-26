@@ -1,7 +1,7 @@
 {
-  "version": "0.1.13",
-  "publishedAt": "2026-07-25",
+  "version": "0.1.14",
+  "publishedAt": "2026-07-26",
   "releaseNotes": [
-    "优化软件相关使用体验。"
+    "新增了windows x86 32位版本。"
   ]
 }
