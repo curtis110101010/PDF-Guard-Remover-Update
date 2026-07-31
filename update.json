@@ -1,8 +1,8 @@
 {
-  "version": "0.1.14",
-  "publishedAt": "2026-07-26",
+  "version": "0.1.15",
+  "publishedAt": "2026-07-31",
   "releaseNotes": [
-    "新增 Windows 32 位（x86）安装版和便携版。",
-    "同时提供 Windows x64、Mac Apple Silicon 和 Mac Intel 安装包。"
+    "1.改进去除硬水印相关功能",
+    "2.优化使用体验"
   ]
 }
