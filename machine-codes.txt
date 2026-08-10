@@ -2,4 +2,4 @@
 # One machine code per line. Case and dashes are ignored by the app.
 # Example:
 # 0123-4567-89AB-CDEF-0123-4567-89AB-CDEF
-25A6-2ADC-AAE3-A2D6-B3DE-C8BE-81E5-2F63
+25A6-2ADC-AAE3-A2D6-B3DE-C8BE-81E5-2F631
